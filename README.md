@@ -121,19 +121,18 @@ of 3D perception for event-based neuromorphic stereo vision systems</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(64).pdf" style="text-decoration:none;">Learning Monocular Dense Depth from Events</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(65).pdf" style="text-decoration:none;">smart eye  TUCO-3D
-3D 360° PANORAMIC IMAGING </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(65).pdf" style="text-decoration:none;">HATS: Histograms of Averaged Time Surfaces for Robust Event-based Object Classification </a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(66).pdf" style="text-decoration:none;">Continuous-Time Trajectory Estimation for Event-based Vision Sensors</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(67).pdf" style="text-decoration:none;">Continuous-Time Trajectory Estimation for Event-based Vision Sensors</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(67).pdf" style="text-decoration:none;">Understanding the Performance of Neuromorphic Event-based Vision Sensors</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(68).pdf" style="text-decoration:none;">Semi-Dense 3D Reconstruction with a Stereo Event Camera</a></li> 
  
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(69).pdf" style="text-decoration:none;">Visual Tracking Using Neuromorphic Asynchronous Event-Based Cameras</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(70).pdf" style="text-decoration:none;">Data-set for Event-based Optical Flow Evaluation in Robotics Applications</a></li> 
   
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(71).pdf" style="text-decoration:none;">Focus is All You Need:
@@ -142,7 +141,7 @@ Loss Functions for Event-based Vision</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(72).pdf" style="text-decoration:none;">Asynchronous Event-Based Motion Processing: From Visual Events to Probabilistic Sensory Representation</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(73).pdf" style="text-decoration:none;">Data-Driven Technology in Event-Based Vision</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(74).pdf" style="text-decoration:none;">Low-Latency Visual Odometry using Event-based Feature Tracks</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(75).pdf" style="text-decoration:none;">EVO: A Geometric Approach to Event-Based 6-DOF Parallel Tracking and Mapping in Real-time</a></li>                        
 <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(76).pdf" style="text-decoration:none;">HOTS: A Hierarchy Of event-based Time-Surfaces for pattern recognition</a></li>
