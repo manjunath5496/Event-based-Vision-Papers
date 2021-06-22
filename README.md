@@ -20,137 +20,126 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(10).pdf" style="text-decoration:none;">A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth, and Optical Flow Estimation </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(11).pdf" style="text-decoration:none;">Eventnet:
 Asynchronous Recursive Event Processing</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(12).pdf" style="text-decoration:none;">Event-Driven Visual-Tactile Sensing and Learning for Robots</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(13).pdf" style="text-decoration:none;">Asynchronous, Photometric Feature Tracking using Events and Frames</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(14).pdf" style="text-decoration:none;">A Motion-Based Feature for
+Event-Based Pattern Recognition</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(15).pdf" style="text-decoration:none;">Event-Based Tone Mapping for Asynchronous Time-Based Image Sensor</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(16).pdf" style="text-decoration:none;">Cross-Modal Learning Filters for RGB-Neuromorphic Wormhole Learning</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(17).pdf" style="text-decoration:none;">Towards neuromorphic control: A spiking neural network based PID controller for UAV</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(18).pdf" style="text-decoration:none;">Are We Ready for Autonomous Drone Racing? The UZH-FPV Drone Racing Dataset</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(19).pdf" style="text-decoration:none;">Brain Inspired Technologies For The Real World</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(20).pdf" style="text-decoration:none;">Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(21).pdf" style="text-decoration:none;">Video to Events:
+Recycling Video Datasets for Event Cameras</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(22).pdf" style="text-decoration:none;">An Asynchronous Neuromorphic Event-Driven Visual Part-Based Shape Tracking</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(23).pdf" style="text-decoration:none;">Deep Neural Networks and Hardware Systems for Event-driven Data</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(24).pdf" style="text-decoration:none;">Giving
+Machines Humanlike</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(25).pdf" style="text-decoration:none;">A neuromorphic controller for a robotic vehicle equipped with a dynamic vision sensor</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(26).pdf" style="text-decoration:none;">An Event-Based Solution to the Perspective-n-Point Problem</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(27).pdf" style="text-decoration:none;">Event-Based Color Segmentation
+With a High Dynamic Range Sensor</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(28).pdf" style="text-decoration:none;">High Speed and High Dynamic Range Video with an Event Camera</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(29).pdf" style="text-decoration:none;">How to Calibrate Your Event Camera </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(30).pdf" style="text-decoration:none;">Low-Latency Event-Based Visual Odometry</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(31).pdf" style="text-decoration:none;">Event-Based Computation of Motion Flow on a Neuromorphic Analog Neural Platform</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(32).pdf" style="text-decoration:none;">Asynchronous event-based corner detection and matching</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(33).pdf" style="text-decoration:none;">Asynchronous Event-Based 3D Reconstruction From Neuromorphic Retinas</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(34).pdf" style="text-decoration:none;">Events-to-Video: Bringing Modern Computer Vision to Event Cameras</a></li> 
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(36).pdf" style="text-decoration:none;">Neuromorphic Event-Based 3D Pose Estimation</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(37).pdf" style="text-decoration:none;">Event-Based Line Fitting and Segment Detection Using a Neuromorphic Visual Sensor</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(38).pdf" style="text-decoration:none;">Event-based Vision meets Deep Learning on Steering Prediction for Self-driving Cars</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(39).pdf" style="text-decoration:none;">On the use of orientation filters for 3D reconstruction in event-driven stereovision</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(40).pdf" style="text-decoration:none;">Events-to-Video:
+Bringing Modern Computer Vision to Event Cameras</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(41).pdf" style="text-decoration:none;">Bio-inspired vision</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(42).pdf" style="text-decoration:none;">A Spiking Neural Network Model
+of Depth from Defocus for Event based Neuromorphic Vision</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(43).pdf" style="text-decoration:none;">Skimming Digits: Neuromorphic Classification of Spike-Encoded Images</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(44).pdf" style="text-decoration:none;">Continuous-Time Visual-Inertial Odometry for Event Cameras</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(45).pdf" style="text-decoration:none;">A 128 &times; 128 120 dB 15 μs Latency Asynchronous Temporal Contrast Vision Sensor</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(46).pdf" style="text-decoration:none;">Accurate Angular Velocity Estimation With an Event Camera</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(47).pdf" style="text-decoration:none;">Deep Event Stereo Leveraged by Event-to-Image Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(48).pdf" style="text-decoration:none;">Event-Based Visual Flow</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(49).pdf" style="text-decoration:none;">Asynchronousvisualevent-basedtime-to-contact</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(50).pdf" style="text-decoration:none;">A Review of Bioinspired Vision Sensors and Their Applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(51).pdf" style="text-decoration:none;">Event-based, 6-DOF Camera Tracking from Photometric Depth Maps</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(52).pdf" style="text-decoration:none;">Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(53).pdf" style="text-decoration:none;">The Little Manual of
 API Design</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(54).pdf" style="text-decoration:none;">A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(56).pdf" style="text-decoration:none;">Industrial DVS Design;
+Key Features and Applications </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(57).pdf" style="text-decoration:none;">Asynchronous, Photometric Feature Tracking using Events and Frames</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(58).pdf" style="text-decoration:none;">A spiking neural network model
+of 3D perception for event-based neuromorphic stereo vision systems</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(59).pdf" style="text-decoration:none;">VLSI Analogs of Neuronal Visual Processing: A Synthesis of Form and Function</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(60).pdf" style="text-decoration:none;">Event-Based Angular Velocity Regression with Spiking Networks </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(61).pdf" style="text-decoration:none;">The development of the DVS and DAVIS sensors</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(62).pdf" style="text-decoration:none;">Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(63).pdf" style="text-decoration:none;">ESIM: an Open Event Camera Simulator</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(64).pdf" style="text-decoration:none;">Learning Monocular Dense Depth from Events</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(65).pdf" style="text-decoration:none;">smart eye  TUCO-3D
+3D 360° PANORAMIC IMAGING </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(66).pdf" style="text-decoration:none;">Continuous-Time Trajectory Estimation for Event-based Vision Sensors</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(67).pdf" style="text-decoration:none;">Continuous-Time Trajectory Estimation for Event-based Vision Sensors</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(68).pdf" style="text-decoration:none;">Semi-Dense 3D Reconstruction with a Stereo Event Camera</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(69).pdf" style="text-decoration:none;">Visual Tracking Using Neuromorphic Asynchronous Event-Based Cameras</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(71).pdf" style="text-decoration:none;">Focus is All You Need:
+Loss Functions for Event-based Vision</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(72).pdf" style="text-decoration:none;">Asynchronous Event-Based Motion Processing: From Visual Events to Probabilistic Sensory Representation</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
