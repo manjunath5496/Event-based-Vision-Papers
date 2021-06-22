@@ -35,7 +35,7 @@ Event-Based Pattern Recognition</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(18).pdf" style="text-decoration:none;">Are We Ready for Autonomous Drone Racing? The UZH-FPV Drone Racing Dataset</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(19).pdf" style="text-decoration:none;">Brain Inspired Technologies For The Real World</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(19).pdf" style="text-decoration:none;">A Large Scale Event-based Detection Dataset for Automotive</a></li> 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(20).pdf" style="text-decoration:none;">Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking</a></li>
 
@@ -67,7 +67,7 @@ With a High Dynamic Range Sensor</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(34).pdf" style="text-decoration:none;">Events-to-Video: Bringing Modern Computer Vision to Event Cameras</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(35).pdf" style="text-decoration:none;">Event-based Camera Pose Tracking using a Generative Event Model</a></li> 
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(36).pdf" style="text-decoration:none;">Neuromorphic Event-Based 3D Pose Estimation</a></li> 
  
@@ -95,12 +95,12 @@ of Depth from Defocus for Event based Neuromorphic Vision</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(51).pdf" style="text-decoration:none;">Event-based, 6-DOF Camera Tracking from Photometric Depth Maps</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(52).pdf" style="text-decoration:none;">Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(53).pdf" style="text-decoration:none;">Entropy Minimisation Framework for
+Event-based Vision Model Estimation</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(54).pdf" style="text-decoration:none;">A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(55).pdf" style="text-decoration:none;">Lifting Monocular Events to 3D Human Poses</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Event-based-Vision-Papers/blob/master/ev(56).pdf" style="text-decoration:none;">Industrial DVS Design;
 Key Features and Applications </a></li>                              
